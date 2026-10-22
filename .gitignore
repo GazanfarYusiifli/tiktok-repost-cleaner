@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# TikTok Profile Data & Cookies (Önəmli: Şəxsi məlumatlar/kukilər getməsin deyə)
+tiktok_browser_profile/
+*.session
+
+# System & OS Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Scratch & debug scripts
+debug_menu.py
+inspect_tiktok.py
+test_click.py
